@@ -1,0 +1,5 @@
+# robots.txt for Shariful Islam Rayhan Portfolio
+User-agent: *
+Allow: /
+
+Sitemap: https://rayhanit.com/sitemap.xml
